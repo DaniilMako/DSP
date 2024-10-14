@@ -1,2 +1,3 @@
 # DSP
-Digital-signal-processing
+Digital signal processing
+Цифровая обработка сигналов
